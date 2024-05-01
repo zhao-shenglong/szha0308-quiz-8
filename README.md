@@ -3,6 +3,6 @@
 # IDEA9103 Week 8 Quiz
 
 - Part 1: Imaging Technique Inspiration
-    - ![Screenshot 1](images/)
+    - ![Screenshot_1](images/Screenshot%20_1.png)
 
 - Part 2: Coding Technique Exploration
