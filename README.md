@@ -2,6 +2,6 @@
 
 # IDEA9103 Week 8 Quiz
 
-- Part 1: Imaging Technique Inspiration
+### Part 1: Imaging Technique Inspiration
 
 - Part 2: Coding Technique Exploration
