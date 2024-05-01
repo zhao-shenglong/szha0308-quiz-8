@@ -15,4 +15,4 @@
 ![Implementation_2](images/Screenshot_4.jpg)
 
 - Here is the link to the implementation.
-[Link Text](https://happycoding.io/tutorials/p5js/creating-classes/ghosts)
+[GHOSTS](https://happycoding.io/tutorials/p5js/creating-classes/ghosts)
